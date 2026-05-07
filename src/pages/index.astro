@@ -1,0 +1,55 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="Cendia Insights — Operational Intelligence for Services Firms"
+  description="Field notes from Cendia Solutions. Operational frameworks, hidden costs, and the structural causes of margin leakage in 30-100 person services firms."
+>
+  <section class="hero">
+    <div class="container">
+      <p class="eyebrow">Cendia Insights</p>
+      <h1>Operational intelligence for <em>services firms</em>.</h1>
+      <p class="lead">
+        Field notes from Cendia Solutions. Diagnostic frameworks, hidden cost analysis, and the structural causes most firms can't see — written for founders and operators of 30-100 person businesses.
+      </p>
+    </div>
+  </section>
+
+  <section class="posts">
+    <div class="container">
+      <p class="eyebrow">Recent posts</p>
+      <h2>The blog launches Tuesday, May 12.</h2>
+      <p>
+        First post: <em>The Hidden Cost of Handoffs in a 50-Person Services Firm.</em>
+      </p>
+      <p>
+        For now, you can find Cendia at <a href="https://cendiasolutions.com">cendiasolutions.com</a> or reach us at <a href="mailto:support@cendiasolutions.com">support@cendiasolutions.com</a>.
+      </p>
+    </div>
+  </section>
+
+  <style>
+    .hero {
+      padding: 80px 0 48px;
+    }
+
+    .hero h1 {
+      max-width: 18ch;
+    }
+
+    .hero h1 em {
+      font-style: italic;
+      color: var(--gold-muted);
+      font-family: var(--font-display);
+    }
+
+    .posts {
+      padding: 32px 0 48px;
+    }
+
+    @media (max-width: 640px) {
+      .hero { padding: 48px 0 32px; }
+    }
+  </style>
+</BaseLayout>

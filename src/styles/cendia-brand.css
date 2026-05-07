@@ -1,0 +1,224 @@
+/* ============================================================
+   Cendia Solutions Brand System
+   Locked palette and typography. Do not introduce new colors.
+   Source: Cendia_Solutions_Brand_Guidelines.md
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+  /* Primary navy palette */
+  --navy-deep: #141D2E;
+  --navy-dark: #0F131A;
+  --navy-mid: #1A3052;
+  --navy-light: #1E3A5F;
+
+  /* Warm gold palette */
+  --gold-warm: #E79523;
+  --gold-muted: #D29B2D;
+  --gold-deep: #B8952A;
+  --gold-light: #D4AE4E;
+
+  /* Supporting */
+  --teal: #478585;
+  --teal-dark: #0F6E56;
+
+  /* Neutrals */
+  --white: #FFFFFF;
+  --white-warm: #FDFCF9;
+  --cream: #FBF8EF;
+  --off-white: #F5F3EE;
+  --muted: #F6F5F4;
+  --gray-light: #E5E5E0;
+  --gray-mid: #C0BFBB;
+  --gray-warm: #7A7A72;
+  --gray-dark: #4A4A4A;
+  --muted-fg: #656C7B;
+
+  /* Type stacks */
+  --font-display: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  --font-body: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--navy-dark);
+  background: var(--white-warm);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* The wordmark — text-only, no image logo */
+.wordmark {
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 14px;
+  letter-spacing: 2.88px;
+  text-transform: uppercase;
+  line-height: 1;
+}
+
+.wordmark-subtitle {
+  font-family: var(--font-body);
+  font-weight: 500;
+  font-size: 11px;
+  letter-spacing: 2.4px;
+  text-transform: uppercase;
+  color: var(--gold-muted);
+  margin-top: 4px;
+  line-height: 1;
+}
+
+.wordmark-on-light .wordmark { color: var(--navy-dark); }
+.wordmark-on-dark .wordmark { color: var(--white); }
+
+/* Eyebrow labels — small caps, gold, letter-spaced */
+.eyebrow {
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 12px;
+  letter-spacing: 2.4px;
+  text-transform: uppercase;
+  color: var(--gold-muted);
+  margin: 0 0 8px;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--navy-dark);
+  margin-top: 0;
+  line-height: 1.2;
+}
+
+h1 { font-size: clamp(36px, 5vw, 60px); margin-bottom: 24px; }
+h2 { font-size: clamp(28px, 3.5vw, 36px); margin: 56px 0 16px; }
+h3 { font-size: 22px; margin: 32px 0 12px; }
+
+/* Body text */
+p { margin: 0 0 20px; }
+
+a {
+  color: var(--gold-muted);
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 3px;
+  transition: color 120ms ease;
+}
+
+a:hover {
+  color: var(--gold-warm);
+}
+
+/* The Hybrid headline accent — used on lead paragraphs */
+.lead {
+  font-size: 22px;
+  line-height: 1.5;
+  margin: 0 0 40px;
+  color: var(--navy-dark);
+  font-weight: 400;
+}
+
+.lead em {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 600;
+  color: var(--gold-muted);
+}
+
+/* Pull quote — used once per post */
+.pullquote {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 1.4;
+  color: var(--navy-dark);
+  border-left: 4px solid var(--gold-muted);
+  padding: 4px 0 4px 24px;
+  margin: 40px 0;
+}
+
+/* Closing CTA block */
+.post-cta {
+  background: var(--off-white);
+  border-top: 8px solid var(--gold-warm);
+  padding: 32px;
+  margin: 48px 0 32px;
+}
+
+.post-cta h3 { margin-top: 0; font-size: 22px; }
+
+.post-cta a.button {
+  display: inline-block;
+  background: var(--gold-warm);
+  color: var(--white);
+  padding: 12px 24px;
+  font-weight: 600;
+  text-decoration: none;
+  margin: 8px 0 16px;
+  transition: background 120ms ease;
+  border-radius: 0;
+}
+
+.post-cta a.button:hover {
+  background: var(--gold-muted);
+}
+
+/* Tables — first-class element */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 32px 0 40px;
+  font-size: 15px;
+  border: 1px solid var(--gray-light);
+}
+
+thead { background: var(--off-white); }
+
+th {
+  text-align: left;
+  font-weight: 700;
+  color: var(--navy-dark);
+  padding: 14px 16px;
+  font-size: 13px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--gray-light);
+}
+
+td {
+  padding: 14px 16px;
+  border-bottom: 1px solid var(--gray-light);
+  vertical-align: top;
+  color: var(--gray-dark);
+}
+
+tbody tr:last-child td { border-bottom: none; }
+tbody tr:hover { background: var(--off-white); }
+
+/* Lists */
+ul, ol { margin: 0 0 24px; padding-left: 24px; }
+li { margin-bottom: 10px; }
+li::marker { color: var(--gold-muted); font-weight: 700; }
+
+/* Mobile */
+@media (max-width: 640px) {
+  body { font-size: 17px; }
+  .lead { font-size: 19px; }
+  table { font-size: 14px; }
+  th, td { padding: 10px 12px; }
+  .pullquote { font-size: 20px; padding-left: 18px; }
+}
