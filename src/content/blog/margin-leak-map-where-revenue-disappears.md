@@ -111,7 +111,7 @@ You can run a first-pass Margin Leak Map in a single afternoon. The exercise wor
 A few scope notes:
 
 - **This isn't a pricing strategy.** The Margin Leak Map assumes your pricing is correct. If your pricing is wrong, fixing operational leakage won't save you. But most firms in the 30-100 person range are priced reasonably — they're just not collecting what they quoted.
-- **This isn't about working harder.** The leakage isn't caused by lazy teams. It's caused by structural gaps — missing handoff rules, unclear ownership at transitions, billing processes that require human memory instead of documented triggers.
+- **This isn't about working harder.** The leakage is caused by structural gaps — missing handoff rules, unclear ownership at transitions, billing processes that require human memory instead of documented triggers. The teams aren't lazy; the structure is broken.
 - **This isn't unique to any industry.** Digital agencies, law firms, IT consultancies, accounting firms, architecture firms — the four boundaries are the same. The leak rates vary by industry but the map is universal.
 
 ## Where to start this week
