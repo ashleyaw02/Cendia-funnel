@@ -1,7 +1,7 @@
 ---
 slug: cost-of-the-handoff-50-person-services-firm
 title: "The Hidden Cost of Handoffs in a 50-Person Services Firm"
-description: "The most expensive operational leak in growing services firms isn't who you've hired or what software you've bought. It's what happens between the people you've already paid for."
+description: "Most growing services firms can't see their largest operational leak. It happens between the people they've already paid for."
 publishDate: 2026-05-07
 author: Cendia Solutions
 category: Hidden Costs
@@ -23,7 +23,7 @@ primaryFramework: Handoff Cost Model
 
 # The Hidden Cost of Handoffs in a 50-Person Services Firm
 
-<p class="lead">If you run a services firm between roughly 30 and 100 people, the most expensive operational leak in your business probably isn't who you've hired or what software you've bought. It's <em>what happens between the people you've already paid for.</em></p>
+<p class="lead">If you run a services firm between roughly 30 and 100 people, your most expensive operational leak is probably invisible to you — it happens in the moments where <em>work moves between the people you've already paid for.</em></p>
 
 A handoff is any moment where work moves between people, teams, or systems. The customer request that goes from sales to operations. The signed contract that goes from operations to delivery. The completed project that goes from delivery to invoicing. Each handoff has a cost — measurable in time, error rate, and rework — and most firms don't measure any of them.
 
@@ -98,14 +98,14 @@ The Eliminate-Before-Automate framework is more useful here. For each of your 19
 
 Cendia's typical finding: 40-60% of operational handoffs in services firms can be eliminated before any automation conversation begins. The remaining ones often need a documented decision rule, not a tool.
 
-<blockquote class="pullquote">The expensive part isn't the work. It's the moving. And the firms that figure that out first are the ones that scale past 100 people without the founder being personally pulled into delivery escalations twice a week.</blockquote>
+<blockquote class="pullquote">The moving is what costs you. The firms that figure that out first are the ones that scale past 100 people without the founder being personally pulled into delivery escalations twice a week.</blockquote>
 
 ## What this isn't
 
 A few honest scope notes:
 
-- **This isn't a productivity argument.** The fix isn't "people should work harder." The fix is structural — fewer handoffs, clearer decision rules at the ones that remain, measurable cost at each.
-- **This isn't a software pitch.** Cendia builds operational software (HOADirect, for HOA boards), but most handoff problems aren't solved by buying software. They're solved by removing handoffs.
+- **This isn't a productivity argument.** Telling people to work harder doesn't solve handoff cost. The fix is structural — fewer handoffs, clearer decision rules at the ones that remain, measurable cost at each.
+- **This isn't a software pitch.** Cendia builds operational software (HOADirect, for HOA boards), but most handoff problems are solved by removing handoffs, not buying software for them.
 - **This isn't generic to all businesses.** Handoff cost matters most in services firms because the work itself is information-heavy and context-heavy. Product companies have different leak patterns.
 
 ## Where to start this week
