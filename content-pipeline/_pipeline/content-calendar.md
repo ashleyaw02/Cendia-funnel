@@ -18,12 +18,14 @@ These posts identify specific operational leaks with named dollar amounts. Sarah
   pillar: 1
   framework: Handoff Cost Model
   title: "The Hidden Cost of Handoffs in a 50-Person Services Firm"
-  status: planned
+  status: published
+  publishDate: 2026-05-07
 - slug: margin-leak-map-where-revenue-disappears
   pillar: 1
   framework: The Margin Leak Map
   title: "The Margin Leak Map: Where Revenue Disappears Between Quote and Cash"
-  status: planned
+  status: published
+  publishDate: 2026-05-08
 - slug: coordination-cost-the-tax-on-growth
   pillar: 1
   framework: Cost-Per-Workflow
