@@ -21,6 +21,10 @@ const posts = (await getCollection('blog')).sort(
     </div>
   </section>
 
+  <div class="container">
+    <hr class="section-divider" />
+  </div>
+
   <section class="posts">
     <div class="container">
       <p class="eyebrow">Recent posts</p>
@@ -63,6 +67,14 @@ const posts = (await getCollection('blog')).sort(
       font-style: italic;
       color: var(--gold-muted);
       font-family: var(--font-display);
+    }
+
+    .section-divider {
+      border: none;
+      width: 96px;
+      height: 2px;
+      background: var(--gold-muted);
+      margin: 0 0 16px;
     }
 
     .posts {
