@@ -30,7 +30,8 @@ These posts identify specific operational leaks with named dollar amounts. Sarah
   pillar: 1
   framework: Cost-Per-Workflow
   title: "Coordination Cost: The Hidden Tax on Growing Services Firms"
-  status: planned
+  status: published
+  publishDate: 2026-05-12
 - slug: why-your-ops-manager-is-drowning
   pillar: 1
   framework: Cost-Per-Workflow
