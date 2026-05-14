@@ -36,7 +36,8 @@ These posts identify specific operational leaks with named dollar amounts. Sarah
   pillar: 1
   framework: Cost-Per-Workflow
   title: "Why Your Ops Manager Is Drowning (And It's Not a Hiring Problem)"
-  status: planned
+  status: published
+  publishDate: 2026-05-14
 - slug: the-cost-of-the-undocumented-process
   pillar: 1
   framework: Three-Layer Compliance Model
