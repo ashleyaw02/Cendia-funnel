@@ -42,7 +42,8 @@ These posts identify specific operational leaks with named dollar amounts. Sarah
   pillar: 1
   framework: Three-Layer Compliance Model
   title: "The Cost of the Undocumented Process"
-  status: planned
+  status: published
+  publishDate: 2026-05-19
 - slug: when-ceo-becomes-bottleneck
   pillar: 1
   framework: The Surface vs. Structure Lens
