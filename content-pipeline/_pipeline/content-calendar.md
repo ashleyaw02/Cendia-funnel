@@ -48,7 +48,8 @@ These posts identify specific operational leaks with named dollar amounts. Sarah
   pillar: 1
   framework: The Surface vs. Structure Lens
   title: "When the CEO Becomes the Bottleneck: The Symptom and the Cause"
-  status: planned
+  status: published
+  publishDate: 2026-05-21
 - slug: failure-cost-rework-write-offs-recovery
   pillar: 1
   framework: Cost-Per-Workflow
