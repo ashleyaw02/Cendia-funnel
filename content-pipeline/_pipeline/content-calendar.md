@@ -54,7 +54,8 @@ These posts identify specific operational leaks with named dollar amounts. Sarah
   pillar: 1
   framework: Cost-Per-Workflow
   title: "Failure Cost: Why Rework, Write-Offs, and Recovery Time Don't Show Up on Your P&L"
-  status: planned
+  status: published
+  publishDate: 2026-05-26
 - slug: client-onboarding-the-most-expensive-handoff
   pillar: 1
   framework: Handoff Cost Model
