@@ -60,7 +60,8 @@ These posts identify specific operational leaks with named dollar amounts. Sarah
   pillar: 1
   framework: Handoff Cost Model
   title: "Client Onboarding: The Most Expensive Handoff in Your Firm"
-  status: planned
+  status: published
+  publishDate: 2026-06-02
 - slug: invoice-to-cash-the-overlooked-leak
   pillar: 1
   framework: The Margin Leak Map
