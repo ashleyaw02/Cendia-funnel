@@ -66,7 +66,8 @@ These posts identify specific operational leaks with named dollar amounts. Sarah
   pillar: 1
   framework: The Margin Leak Map
   title: "Invoice-to-Cash: The Overlooked Margin Leak"
-  status: planned
+  status: published
+  publishDate: 2026-06-04
 - slug: meetings-that-exist-because-they-always-have
   pillar: 1
   framework: Eliminate-Before-Automate
