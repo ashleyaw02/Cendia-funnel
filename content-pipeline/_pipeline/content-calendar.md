@@ -72,7 +72,8 @@ These posts identify specific operational leaks with named dollar amounts. Sarah
   pillar: 1
   framework: Eliminate-Before-Automate
   title: "Meetings That Exist Because They Always Have"
-  status: planned
+  status: published
+  publishDate: 2026-06-09
 
 ## Pillar 2 — Operational Frameworks (the diagnostic library)
 
