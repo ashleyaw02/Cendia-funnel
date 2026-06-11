@@ -83,7 +83,8 @@ Posts that introduce, explain, or apply Cendia's named frameworks. Reusable foun
   pillar: 2
   framework: Three-Layer Compliance Model
   title: "The Three-Layer Compliance Model, Applied Beyond Compliance"
-  status: planned
+  status: published
+  publishDate: 2026-06-11
 - slug: surface-vs-structure-diagnosing-real-problem
   pillar: 2
   framework: The Surface vs. Structure Lens
