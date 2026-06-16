@@ -89,7 +89,8 @@ Posts that introduce, explain, or apply Cendia's named frameworks. Reusable foun
   pillar: 2
   framework: The Surface vs. Structure Lens
   title: "Surface vs. Structure: How to Diagnose the Real Problem"
-  status: planned
+  status: published
+  publishDate: 2026-06-16
 - slug: 2-minute-rule-counterintuitive-automation
   pillar: 2
   framework: 2-Minute Rule (Automation Triage)
