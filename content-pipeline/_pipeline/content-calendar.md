@@ -95,7 +95,8 @@ Posts that introduce, explain, or apply Cendia's named frameworks. Reusable foun
   pillar: 2
   framework: 2-Minute Rule (Automation Triage)
   title: "The 2-Minute Rule: A Counterintuitive Approach to Automation"
-  status: planned
+  status: published
+  publishDate: 2026-06-18
 - slug: eliminate-before-automate-process-audit
   pillar: 2
   framework: Eliminate-Before-Automate
