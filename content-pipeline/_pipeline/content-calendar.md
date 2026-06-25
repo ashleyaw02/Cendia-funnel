@@ -101,7 +101,8 @@ Posts that introduce, explain, or apply Cendia's named frameworks. Reusable foun
   pillar: 2
   framework: Eliminate-Before-Automate
   title: "Eliminate Before You Automate: The Process Audit Most Firms Skip"
-  status: planned
+  status: published
+  publishDate: 2026-06-25
 - slug: handoff-cost-model-explained
   pillar: 2
   framework: Handoff Cost Model
