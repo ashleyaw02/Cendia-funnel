@@ -107,7 +107,8 @@ Posts that introduce, explain, or apply Cendia's named frameworks. Reusable foun
   pillar: 2
   framework: Handoff Cost Model
   title: "The Handoff Cost Model: Why Your Workflows Cost More Than You Think"
-  status: planned
+  status: published
+  publishDate: 2026-06-30
 - slug: 30-90-365-sizing-honest-roi
   pillar: 2
   framework: 30/90/365 Sizing
