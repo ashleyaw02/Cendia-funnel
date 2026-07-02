@@ -113,7 +113,8 @@ Posts that introduce, explain, or apply Cendia's named frameworks. Reusable foun
   pillar: 2
   framework: 30/90/365 Sizing
   title: "30/90/365: How to Size Operational Changes Honestly"
-  status: planned
+  status: published
+  publishDate: 2026-07-02
 - slug: cost-per-workflow-three-components
   pillar: 2
   framework: Cost-Per-Workflow
