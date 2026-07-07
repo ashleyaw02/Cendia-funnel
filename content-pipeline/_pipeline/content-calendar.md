@@ -119,7 +119,8 @@ Posts that introduce, explain, or apply Cendia's named frameworks. Reusable foun
   pillar: 2
   framework: Cost-Per-Workflow
   title: "Cost-Per-Workflow: The Three Components Most Teams Don't Measure"
-  status: planned
+  status: published
+  publishDate: 2026-07-07
 - slug: trigger-timing-proof-three-layers-failure
   pillar: 2
   framework: Three-Layer Compliance Model
