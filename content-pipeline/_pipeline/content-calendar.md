@@ -125,7 +125,8 @@ Posts that introduce, explain, or apply Cendia's named frameworks. Reusable foun
   pillar: 2
   framework: Three-Layer Compliance Model
   title: "Trigger, Timing, Proof: The Three Layers Where Operations Fail"
-  status: planned
+  status: published
+  publishDate: 2026-07-09
 
 ## Pillar 3 — Build/Buy/Eliminate (the spending alternatives)
 
