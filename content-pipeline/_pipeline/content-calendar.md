@@ -136,7 +136,8 @@ Sarah's purchase-intent posts. These directly address what she's actually choosi
   pillar: 3
   framework: Fractional vs. Internal vs. Consulting
   title: "Fractional COO vs. Internal Hire vs. Consulting: How to Choose"
-  status: planned
+  status: published
+  publishDate: 2026-07-10
 - slug: when-buy-software-when-fix-process
   pillar: 3
   framework: Build vs. Buy vs. Eliminate
